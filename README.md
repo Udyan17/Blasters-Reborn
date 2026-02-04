@@ -1,2 +1,1 @@
-# Blasters-Reborn
-Blasters
+# Blaster
